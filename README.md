@@ -32,3 +32,6 @@ There were 5 outliers values in BPM column that affected the data, so they have 
 9- 75% of respondents showed improvement in thier condition, only 2.3% showed worsen and 22.7% had no effect,
 
 10- Respondents whose shown worsen in their case, thier fav genre are video game music,Rock,Pop,Rap and Classical, and most of respondents whose shown improve in thier case, thier fav genre is Gospel. 
+
+#### Used libraries:
+Pandas, Numpy, Seaborn, Matplotlib, and Missingo. 
