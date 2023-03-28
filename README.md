@@ -19,17 +19,17 @@ There were 5 outliers values in BPM column that affected the data, so they have 
 
 4- Most Respondents prefare Rock,Pop,and Metal music genre,respectively. Latin music is the least prefare genre,
 
-5- Respondents whose fav genre is latin genre, listen to music more often than the others,
+5- Respondents whose fav genre is latin, listen to music more often than the others,
 
 5- There is a correlation between Anxity and Depression,
 
-6- Respondents whose fav genre is Folk music has hisgher Anxiety than the other,
+6- Respondents whose fav genre is Folk music have hisgher Anxiety than the other,
 
-7- Respondents whose fav genre is Hip hop music has higher Depression than the other,
+7- Respondents whose fav genre is Hip hop music have higher Depression than the other,
 
-8- Respondents whose fav genre is Lofi music has higher depression,
+8- Respondents whose fav genre is Lofi music have higher depression than the other,
 
-9- 75% of respondents showed improvement in thier condition, only 2.3% showed worsen and 22.7% had no effect,
+9- 75% of respondents showed improvement in thier condition by listining to music, only 2.3% showed worsen and 22.7% had no effect,
 
 10- Respondents whose shown worsen in their case, thier fav genre are video game music,Rock,Pop,Rap and Classical, and most of respondents whose shown improve in thier case, thier fav genre is Gospel. 
 
