@@ -12,6 +12,7 @@ There were 5 outliers values in BPM column that affected the data, so they have 
 
 #### Analysis:
 1- Most Respondent's Age range are classified as young adult and younger respondents have higher Anxiety than the elder, 
+
 2- Most Respondents listen to music through Spotify streaming service,
 3- On average, Respondents listen to music around 2-3 hours per day,
 4- Most Respondents prefare Rock,Pop,and Metal music genre. Latin music is the least prefare genre,
