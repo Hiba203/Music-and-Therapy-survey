@@ -17,7 +17,7 @@ There were 5 outliers values in BPM column that affected the data, so they have 
 
 3- On average, Respondents listen to music around 2-3 hours per day,
 
-4- Most Respondents prefare Rock,Pop,and Metal music genre. Latin music is the least prefare genre,
+4- Most Respondents prefare Rock,Pop,and Metal music genre,respectively. Latin music is the least prefare genre,
 
 5- Respondents whose fav genre is latin genre, listen to music more often than the others,
 
