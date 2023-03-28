@@ -14,12 +14,21 @@ There were 5 outliers values in BPM column that affected the data, so they have 
 1- Most Respondent's Age range are classified as young adult and younger respondents have higher Anxiety than the elder, 
 
 2- Most Respondents listen to music through Spotify streaming service,
+
 3- On average, Respondents listen to music around 2-3 hours per day,
+
 4- Most Respondents prefare Rock,Pop,and Metal music genre. Latin music is the least prefare genre,
+
 5- Respondents whose fav genre is latin genre, listen to music more often than the others,
+
 5- There is a correlation between Anxity and Depression,
+
 6- Respondents whose fav genre is Folk music has hisgher Anxiety than the other,
+
 7- Respondents whose fav genre is Hip hop music has higher Depression than the other,
-8- Respondents whose fav genre is Lofi music has higher depression
-9- 75% of respondents showed improvement in thier condition, only 2.3% showed worsen and 22.7% had no effect
+
+8- Respondents whose fav genre is Lofi music has higher depression,
+
+9- 75% of respondents showed improvement in thier condition, only 2.3% showed worsen and 22.7% had no effect,
+
 10- Respondents whose shown worsen in their case, thier fav genre are video game music,Rock,Pop,Rap and Classical, and most of respondents whose shown improve in thier case, thier fav genre is Gospel. 
